@@ -1,3 +1,2 @@
 # Biodiversity
-## below you can see the app
-[Biodiversity]https://biodiversity123.herokuapp.com)
+## You can view the app here [Biodiversity]https://biodiversity123.herokuapp.com)
