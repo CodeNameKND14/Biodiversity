@@ -10,10 +10,10 @@ function buildMetadata(sample) {
       metaData.append("h5").text(`${key}: ${value}`);
     });
   console.log(data.WFREQ);  
+  // Build the Gauge Chart
   buildGauge(data.WFREQ);  
   });
 
-    // BONUS: Build the Gauge Chart
 };
 
 function buildCharts(sample) {
