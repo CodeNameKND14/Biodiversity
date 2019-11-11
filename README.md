@@ -46,5 +46,5 @@ Adapted the Gauge Chart to plot the Weekly Washing Frequency obtained from the /
 - Displayed the sample metadata from the route `/metadata/<sample>` showing each `key/value` pair from the metadata `JSON` object to the left of the pie chart.
      - The plots Update any time that a new sample is selected.
      
-![1-Logo](Belly_Button_Biodiversity/Images/pic2.jpg)
+![1-Logo](Belly_Button_Biodiversity/Images/pic3.jpg)
 
