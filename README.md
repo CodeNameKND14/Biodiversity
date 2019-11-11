@@ -1,5 +1,6 @@
 # Biodiversity
 ![1-Logo](Belly_Button_Biodiversity/Images/pic5.jpg	)
+
 Built an interactive dashboard to explore the Biodiversity dataset and deployed the Flask app to Heroku.You can view the app here [Biodiversity](https://biodiversity123.herokuapp.com/)
 
 - Used Plotly.js to build interactive charts for the dashboard.
@@ -38,7 +39,7 @@ Built an interactive dashboard to explore the Biodiversity dataset and deployed 
  
 Adapted the Gauge Chart to plot the Weekly Washing Frequency obtained from the /metadata/<sample>route. 
   
-![1-Logo](Belly_Button_Biodiversity/Images/pic3.jpg	) 
+![1-Logo](Belly_Button_Biodiversity/Images/pic1.jpg	) 
  
  
  
