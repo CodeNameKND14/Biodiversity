@@ -1,7 +1,7 @@
 # Biodiversity
 ![1-Logo](Belly_Button_Biodiversity/Images/pic5.jpg	)
 
-Built an interactive dashboard to explore the Biodiversity dataset and deployed the Flask app to Heroku.You can view the app here [Biodiversity](https://biodiversity123.herokuapp.com/)
+Built an interactive dashboard to explore the Biodiversity dataset and deployed the Flask app to Heroku. You can view the app here [Biodiversity](https://biodiversity123.herokuapp.com/).
 
 - Used Plotly.js to build interactive charts for the dashboard.
     - Created a PIE chart that uses data from your samples route (`/samples/<sample>`) to display the top 10 samples.
